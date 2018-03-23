@@ -1,6 +1,8 @@
 from math import trunc
 
-# Aula 3 - Mais sobre representação de números
+"""
+    Aula 3 - Mais sobre representação de números
+"""
 
 # Imprimir a notação normalizada de um número
 print('{:1.1e}'.format(625.532))
