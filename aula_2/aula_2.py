@@ -1,6 +1,8 @@
 from bitstring import Bits
 
-# Aula 2 - Representação de números
+"""
+    Aula 2 - Representação de números
+"""
 
 # Converte 293 de decimal para binário
 num_bin = bin(293)
